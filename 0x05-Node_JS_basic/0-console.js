@@ -11,5 +11,5 @@ const displayMessage = (message) => console.log(message);
  * @module displayMessage
  * @function
  */
-// Default module export.
+// Default module export
 module.exports = displayMessage;
